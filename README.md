@@ -16,7 +16,7 @@ Pour l'integré dans le projet EM :
 
 (To integrate it into the EM project:)
       
-- On déplace le dossier 'emp' vers le dossier 'Data' :
+-On déplace le dossier 'emp' vers le dossier 'Data' :
 
 (- move the 'emp' folder to the 'Data' folder:)
                 
