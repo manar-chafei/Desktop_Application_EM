@@ -2,7 +2,7 @@
 Desktop application for employee management
                   EM Employee Management
 
-https://user-images.githubusercontent.com/79658236/212314772-e780d437-8c97-45fa-bc0e-28e6ce44ac73.gif
+![Sans_titre_AdobeExpress](https://user-images.githubusercontent.com/79658236/212314772-e780d437-8c97-45fa-bc0e-28e6ce44ac73.gif)
 
 Base de données(data base) : emp
 Projet (project): GestionEmp
